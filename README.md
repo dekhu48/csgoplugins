@@ -10,6 +10,7 @@ https://github.com/dekhu48/CSGO_WeaponStickers
 
 https://github.com/dekhu48/eSprays
 
+https://github.com/dekhu48/eItems
 
 
 Retake
@@ -46,8 +47,32 @@ https://github.com/dekhu48/csgo-skin-tester
 https://github.com/dekhu48/csgo-skin-tester-sm
 
 
+PUG
+
+https://github.com/dekhu48/get5
+
+https://github.com/dekhu48/get5-web
+
+https://github.com/dekhu48/csgo-pug-setup
+
+
+
+1v1
+
+https://github.com/dekhu48/csgo-multi-1v1
+
+https://github.com/dekhu48/Duel-Mod
+
+
 
 KZ
 
+https://github.com/dekhu48/gokz
+
+https://github.com/dekhu48/movementhud
+
+https://github.com/dekhu48/showpos
 
 
+
+Surf
