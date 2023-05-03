@@ -1,5 +1,13 @@
 # csgoplugins
 
+MISC
+
+
+https://github.com/dekhu48/PTaH
+
+https://github.com/dekhu48/sm-ripext
+
+
 GSLT
 
 https://github.com/dekhu48/weapons
