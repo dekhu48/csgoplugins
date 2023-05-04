@@ -89,5 +89,12 @@ https://github.com/dekhu48/movementhud
 https://github.com/dekhu48/showpos
 
 
+Store
+
+https://github.com/dekhu48/Store
+
+https://github.com/dekhu48/store-plugin
+
+
 
 Surf
