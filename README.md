@@ -20,8 +20,6 @@ https://github.com/dekhu48/CSGO_WeaponStickers
 
 https://github.com/dekhu48/eSprays
 
-https://github.com/dekhu48/eItems
-
 https://github.com/dekhu48/Music-Kits
 
 Retake
