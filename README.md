@@ -10,6 +10,8 @@ https://github.com/dekhu48/sm-ripext
 
 GSLT
 
+https://github.com/dekhu48/eItems
+
 https://github.com/dekhu48/weapons
 
 https://github.com/dekhu48/gloves
@@ -20,6 +22,7 @@ https://github.com/dekhu48/eSprays
 
 https://github.com/dekhu48/eItems
 
+https://github.com/dekhu48/Music-Kits
 
 Retake
 
