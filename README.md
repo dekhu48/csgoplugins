@@ -34,6 +34,12 @@ https://github.com/dekhu48/retakes-hud
 https://github.com/dekhu48/MyWeaponAllocator
 
 
+Executes
+
+https://github.com/dekhu48/executes-hud
+
+https://github.com/dekhu48/csgo-executes
+
 Drop
 
 
