@@ -43,40 +43,38 @@ https://github.com/B3none/executes-hud
 
 https://github.com/splewis/csgo-executes
 
+
 Drop
 
+https://github.com/schwarper/csgo-drop
 
-https://github.com/dekhu48/csgo-drop
-
-https://github.com/dekhu48/csgo-advanced-drop
+https://github.com/oppars01/csgo-advanced-drop
 
 
 
 Skintester
 
-https://github.com/dekhu48/phoskin
+https://github.com/araynimax/phoskin
 
+https://github.com/chescos/csgo-skin-tester-frontend
 
-https://github.com/dekhu48/csgo-skin-tester-frontend
+https://github.com/chescos/csgo-skin-tester
 
-https://github.com/dekhu48/csgo-skin-tester
-
-https://github.com/dekhu48/csgo-skin-tester-sm
+https://github.com/chescos/csgo-skin-tester-sm
 
 
 PUG
 
-https://github.com/dekhu48/get5
+https://github.com/splewis/get5
 
-https://github.com/dekhu48/get5-web
+https://github.com/splewis/get5-web
 
-https://github.com/dekhu48/csgo-pug-setup
-
+https://github.com/splewis/csgo-pug-setup
 
 
 1v1
 
-https://github.com/dekhu48/csgo-multi-1v1
+https://github.com/splewis/csgo-multi-1v1
 
 https://github.com/dekhu48/Duel-Mod
 
@@ -84,18 +82,18 @@ https://github.com/dekhu48/Duel-Mod
 
 KZ
 
-https://github.com/dekhu48/gokz
+https://github.com/KZGlobalTeam/gokz
 
-https://github.com/dekhu48/movementhud
+https://github.com/Sikarii/movementhud
 
-https://github.com/dekhu48/showpos
+https://github.com/zer0k-z/showpos
 
 
 Store
 
-https://github.com/dekhu48/Store
+https://github.com/Kxnrl/Store
 
-https://github.com/dekhu48/store-plugin
+https://github.com/dvarnai/store-plugin
 
 
 
