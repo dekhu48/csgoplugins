@@ -8,38 +8,40 @@ https://github.com/dekhu48/PTaH
 https://github.com/dekhu48/sm-ripext
 
 
+
 GSLT
 
-https://github.com/dekhu48/eItems
+https://github.com/ESK0/eItems
 
-https://github.com/dekhu48/weapons
+https://github.com/kgns/weapons
 
-https://github.com/dekhu48/gloves
+https://github.com/kgns/gloves
 
-https://github.com/dekhu48/CSGO_WeaponStickers
+https://github.com/quasemago/CSGO_WeaponStickers
 
-https://github.com/dekhu48/eSprays
+https://github.com/NockyCZ/eSprays/
 
-https://github.com/dekhu48/Music-Kits
+https://github.com/rogeraabbccdd/Music-Kits
+
 
 Retake
 
-https://github.com/dekhu48/csgo-retakes
+https://github.com/splewis/csgo-retakes
 
-https://github.com/dekhu48/retakes-autoplant
+https://github.com/B3none/retakes-autoplant
 
-https://github.com/dekhu48/retakes-instadefuse
+https://github.com/B3none/retakes-instadefuse
 
-https://github.com/dekhu48/retakes-hud
+https://github.com/B3none/retakes-hud
 
-https://github.com/dekhu48/MyWeaponAllocator
+https://github.com/shanapu/MyWeaponAllocator
 
 
 Executes
 
-https://github.com/dekhu48/executes-hud
+https://github.com/B3none/executes-hud
 
-https://github.com/dekhu48/csgo-executes
+https://github.com/splewis/csgo-executes
 
 Drop
 
